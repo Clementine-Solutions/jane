@@ -1,0 +1,12 @@
+# Exclude Markdown
+*.md
+**/*.md
+
+# Exclude YAML
+*.yml
+*.yaml
+**/*.yml
+**/*.yaml
+
+virtual/
+**/virtual/
